@@ -4,4 +4,4 @@ Simple Android Example with Kotlin
 
 ## Screenshot
 
-![sc1](https://github.com/ramdanix/simple-kotlin-sample/screenshot/sc1.png "screenshot1")
+![sc1](https://github.com/ramdanix/simple-kotlin-sample/blob/master/screenshot/sc1.png "screenshot1")
